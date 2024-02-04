@@ -3,7 +3,6 @@ TermuGpt é um assistente virtual alimentado por GPT-4 relativo, focalizado em d
 
 # Funcionalidades
 
-Funcionalidades:
 
 -GPT-4 HABLITADO ⚡🥱🤙
 
