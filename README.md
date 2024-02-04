@@ -26,6 +26,6 @@ git clone https://github.com/Kooper77/TermuGpt
 
 cd TermuGpt
 
-python3 TermuGpt.py
+python3 Termu.py
 
 
